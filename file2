@@ -1,3 +1,8 @@
 this is second fileTHis edit in the firstbranch
+<<<<<<< HEAD
 this edit is in master branch
 
+=======
+
+this edit is in git central repo 
+>>>>>>> ef6c3db53e145d476c51fe39a73ddecbd666b17f
